@@ -6,10 +6,10 @@ export const Projects = () => {
     <div>
          <Heading text={'Projects'} />
          <div>
-            <button>All</button>
+            <button><Alls></Alls></button>
             <div>
                 <Project/>
-                
+
 
             </div>
          </div>
