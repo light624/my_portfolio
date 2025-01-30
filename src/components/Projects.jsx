@@ -6,7 +6,7 @@ export const Projects = () => {
     <div>
          <Heading text={'Projects'} />
          <div>
-            <button><Alls></Alls></button>
+            <button>All/</button>
             <div>
                 <Project/>
 
